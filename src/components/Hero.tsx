@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
               <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight mb-4">
                 <span className="text-white">Anand – </span>
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-green-600">
-                  Full Stack Web Developer
+                  Software Engineer
                 </span>
               </h1>
               
